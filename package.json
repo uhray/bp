@@ -1,7 +1,7 @@
 {
-  "name": "changify",
-  "version": "1.0.3",
-  "description": "Handle db changes with verification",
+  "name": "bp",
+  "version": "1.0.0",
+  "description": "CLI for uhray's boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
