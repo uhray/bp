@@ -1,5 +1,5 @@
 {
-  "name": "bp",
+  "name": "uhray-bp",
   "version": "1.0.0",
   "description": "CLI for uhray's boilerplate",
   "main": "index.js",
