@@ -13,6 +13,9 @@
     "gulp-jscs": "^1.2.0",
     "gulp": "^3.8.11"
   },
+  "bin": {
+    "bp": "index.js"
+  },
   "dependencies": {
     "async": "^1.5.0",
     "ejs": "^2.3.4",
