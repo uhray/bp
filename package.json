@@ -1,6 +1,6 @@
 {
   "name": "uhray-bp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for uhray's boilerplate",
   "main": "index.js",
   "scripts": {
